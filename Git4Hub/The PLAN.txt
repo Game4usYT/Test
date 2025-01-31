@@ -1,5 +1,7 @@
 Welcome to the Git4Hub
 
-for now, there isnt anything here.
+Projects in Development:
+
+Gic Game engine or "Magic" for short
 
 Thanks for reading :)
