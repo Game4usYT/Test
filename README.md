@@ -1,6 +1,6 @@
-# GIC-Gstands4Magic
+# Git4Hub
 
-Custom Game engine Built ontop of Love2D and Lua
+The next Github Project is just a lifetime away
 
 
 As Attribution for Copyright please include: Game4us in redistributions through any medium
